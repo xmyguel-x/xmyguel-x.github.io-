@@ -1,0 +1,2 @@
+NEXUS PAGES CHECK OK
+If you can read this file on the live GitHub Pages site, the repository root is being served.
